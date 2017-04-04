@@ -1,0 +1,15 @@
+.intro {
+  text-align: center;
+  margin-top: 10%;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  background-color: #7d4900;
+  border-radius: 5px;
+  border: 5px solid black;
+  color: white;
+  font-family: 'Palanquin Dark', sans-serif;
+  margin: 7%;
+}

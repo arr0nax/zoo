@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+.story {
+  font-size: 50;
+}
+button {
+  font-size: 50;
+}

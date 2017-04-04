@@ -1,0 +1,112 @@
+{ "chapters": [{
+  "body": "You're walking past the rabbit enclosrue when you get propositioned by a bunny.",
+  "suggestions": ["Keep walking", "Hear it out"],
+  "id": 1,
+  "options": [7,2]
+  }, {
+  "body": "'hey there stranger' says the bunny. 'Heard your carrying quite the carrot'",
+  "suggestions": ["Terrifying. I want no part in this", "Coincidentally you do happen to have a carrot., you reach in to your pocket to give it to the bunny. "],
+  "id": 2,
+  "options": [7,3]
+  }, {
+  "body": "As you hold out the carrot, a zoo security guard rounds the corner and sees you and the rabbit. 'Halt!' he says, drawing his taser. 'Dont feed the animals!’",
+  "suggestions": ["Give the bunny the carrot anyways", "Throw the carrot at the guard and run away on your hands"],
+  "id": 3 ,
+  "options": [4,10]
+  }, {
+  "body": "'Oh youve done it now mister!' the security guard rushes towards you, taser drawn. The bunny opens its cage and motions you in",
+  "suggestions": ["Get tased", "Escape with the bunny"],
+  "id": 4,
+  "options": [9,5]
+  }, {
+  "body": "You slam the cage behind you as the security guard swipes at your hand with the taser. The cage has lots of amenities, more than your apartment…",
+  "suggestions": ["Live here forever as a bunny", "Make a deal with the elephants to get out of here"],
+  "id": 5,
+  "options": [6,20]
+  }, {
+  "body": "You stay with the bunny, who actually turns out to be pretty nice. You live comfortably as a bunny for another 5 years as a diet of carrots and hay slowly erases your memories of what it was like to be human. ",
+  "suggestions": ["Great", "Woohoo"],
+  "id": 6,
+  "options": [0,0]
+  }, {
+  "body": "Shaken, you fail to notice a large pile of baboon feces which you step in. your shoes are covered in shit.",
+  "suggestions": ["Walk on your hands", "Accept your new shittier version of reality"],
+  "id": 7,
+  "options": [10,8]
+  }, {
+  "body": "The shit smells really bad. People are giving you nasty looks.",
+  "suggestions": ["Theres a hose over there. Try to wash the shit off.", "Pass it off on the animals"],
+  "id": 8,
+  "options": [12,11]
+  }, {
+  "body": "You get tased and are now lying on the ground of a zoo, convulsing. If your parents could see you now...",
+  "suggestions": ["ah man", "Don't tase me bro!"],
+  "id": 9,
+  "options": [0,0]
+  }, {
+  "body": "Your hand walking is garnering a lot of attention.",
+  "suggestions": ["Put out a hat nad try to make some mioney", "Ignore the onlookers. animals, what do Theyre all they know?"],
+  "id": 10,
+  "options": [16,14]
+  }, {
+  "body": "No one seems to believe the smell is coming from the animals. Soon you get discovered by zoo security, and are asked to leave.",
+  "suggestions": ["oh well, I never liked zoos", "I miss that bunny"],
+  "id": 11,
+  "options": [2,3]
+  }, {
+    "body": "You start to hose your shoes off. For some reason the pressure is really high…",
+  "suggestions": ["Oh well, these arent gonna clean themselves", "Maybe I should find a different hose..."],
+  "id": 12,
+  "options": [13,13]
+  }, {
+  "body": "Oh shit, its not a hose, its the emergency release valve for the entire aquarium. Theres hundreds of endagered fish dying before your eyes.",
+  "suggestions": ["Walk away super nonchalant and hope that no one notices.", "Use your shit encrusted shoes to plug the hole."],
+  "id": 13,
+  "options": [18,19]
+  }, {
+  "body": "Youre looking at some fish when the tank begins to drain. The fish are clearly distressed.",
+  "suggestions": ["Press the giant button on the tank that says ‘stop drainage’", "Grab some peanuts and watch the spectacle as hundreds of endangered fish asphyxiate."],
+  "id": 14,
+  "options": [15,21]
+  }, {
+  "body": "A security guard sees you pressing the button.",
+  "suggestions": ["Play it cool. You had to press the button.", "Frantically try to explain that the tank is draining."],
+  "id": 15,
+  "options": [9,9]
+  }, {
+  "body": "Your hat is filled with change and animal feed.",
+  "suggestions": ["Go haggle with the elephants and see if they will trade you some paintings for these peanuts", "Go buy more peanuts with the change"],
+  "id": 16,
+  "options": [17,21]
+  }, {
+  "body": "The elephants strike a hard bargain. In exchange for your peanuts they will give some money, but only if you take their place in the enclosure",
+  "suggestions": ["Couldn’t be much worse than it already is…", "Reject their offer, you’ve heard rumors about the elephants laundering money with the hyenas, and you dont wanna get mixed up with that crowd"],
+  "id": 17,
+  "options": [20,18]
+  }, {
+  "body": "Your shoes are still covered in shit.",
+  "suggestions": ["Go look at some more animals", "Try to hose off your shoes"],
+  "id": 18,
+  "options": [14,8]
+  }, {
+  "body": "You somehow managae to stop the leak, but now you are soaked in fish water and have no shoes. An elephant sees you shivering, and offers to take you in.",
+  "suggestions": ["Go live with the elephants. It couldnt get much worse than it already is.", "Give up on the zoo and walk home barefoot."],
+  "id": 19,
+  "options": [20,22]
+  }, {
+  "body": "Congratulations! Your an elephant now, and you can never forget. Also, a hyena has threatened to disembowl you if cant provide her with more ivory by the end of week",
+  "suggestions": ["Better get harvesting", "She seems really serious"],
+  "id": 20,
+  "options": [0,0]
+  }, {
+  "body": "Wow, those are some delicious peanuts! Really makes you wish didnt have a peanut allergy, which in all of the confusion you forgot about entirely. Your throat begins to close up; as you take your final breaths, you just can’t shake the feeling that if you had flirted with that bunny your day would’ve gone a lot better.",
+  "suggestions": ["Embrace death", "Fight to the last breath"],
+  "id": 21,
+  "options": [0,0]
+  }, {
+  "body": "You make it home, but you cant stop thinking about that bunny. Damn, that was a cute bunny.",
+  "suggestions": ["Oh well", "Watch some planet earth (the bunny episode)"],
+  "id": 22,
+  "options": [0,0]
+  }]
+}
